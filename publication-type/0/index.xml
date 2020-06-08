@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Weiming Feng</title>
+    <link>https://fwm94.github.io/publication-type/0/</link>
+      <atom:link href="https://fwm94.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fwm94.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://fwm94.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Fast sampling and counting $k$-SAT solutions in the local lemma regime</title>
+      <link>https://fwm94.github.io/publication/mcmcforcnf/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/mcmcforcnf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfect sampling from spatial mixing</title>
+      <link>https://fwm94.github.io/publication/perfectcolouring/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/perfectcolouring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic inference in probabilistic graphical models</title>
+      <link>https://fwm94.github.io/publication/dynamicinf/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/dynamicinf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Metropolis sampler with optimal parallelism</title>
+      <link>https://fwm94.github.io/publication/distrsimulate/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/distrsimulate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed sampling almost-uniform graph coloring with fewer colors</title>
+      <link>https://fwm94.github.io/publication/localcoloring/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/localcoloring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
