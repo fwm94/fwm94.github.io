@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fwm94.github.io/publication-type/0/</loc>
-    <lastmod>2021-06-21T10:53:51+08:00</lastmod>
+    <loc>https://fwm94.github.io/publication-type/2/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fwm94.github.io/authors/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/publication/mcmcforcnf/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/author/heng-guo/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/publication_types/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/publication/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/author/weiming-feng/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/author/yitong-yin-and-chihao-zhang/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/publication-type/0/</loc>
     <lastmod>2021-06-21T10:53:51+08:00</lastmod>
   </url>
   
@@ -18,27 +58,7 @@
   </url>
   
   <url>
-    <loc>https://fwm94.github.io/publication_types/</loc>
-    <lastmod>2021-06-21T10:53:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/publication/</loc>
-    <lastmod>2021-06-21T10:53:51+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fwm94.github.io/publication/hypergraphcoloring/</loc>
-    <lastmod>2021-06-21T10:53:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/author/weiming-feng/</loc>
-    <lastmod>2021-06-21T10:53:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/</loc>
     <lastmod>2021-06-21T10:53:51+08:00</lastmod>
   </url>
   
@@ -63,17 +83,17 @@
   </url>
   
   <url>
-    <loc>https://fwm94.github.io/author/heng-guo/</loc>
-    <lastmod>2021-01-10T12:25:00+08:00</lastmod>
+    <loc>https://fwm94.github.io/publication/dynamicsampling/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/author/nisheeth-k.-vishnoi-and-yitong-yin/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fwm94.github.io/publication/mcmcmixingtime/</loc>
-    <lastmod>2021-01-10T12:25:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/author/yitong-yin-and-chihao-zhang/</loc>
     <lastmod>2021-01-10T12:25:00+08:00</lastmod>
   </url>
   
@@ -108,11 +128,6 @@
   </url>
   
   <url>
-    <loc>https://fwm94.github.io/publication/mcmcforcnf/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fwm94.github.io/author/heng-guo-and-yitong-yin/</loc>
     <lastmod>2019-07-13T00:00:00+00:00</lastmod>
   </url>
@@ -120,16 +135,6 @@
   <url>
     <loc>https://fwm94.github.io/publication/perfectcolouring/</loc>
     <lastmod>2019-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/publication/dynamicsampling/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/author/nisheeth-k.-vishnoi-and-yitong-yin/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
