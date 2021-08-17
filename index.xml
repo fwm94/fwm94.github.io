@@ -5,12 +5,20 @@
     <link>https://fwm94.github.io/</link>
       <atom:link href="https://fwm94.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Weiming Feng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fwm94.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Weiming Feng</title>
       <link>https://fwm94.github.io/</link>
     </image>
+    
+    <item>
+      <title>Rapid mixing of Glauber dynamics via spectral independence for all degrees</title>
+      <link>https://fwm94.github.io/publication/hardcore/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/hardcore/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast sampling and counting $k$-SAT solutions in the local lemma regime</title>
@@ -25,14 +33,6 @@
       <link>https://fwm94.github.io/publication/hypergraphcoloring/</link>
       <pubDate>Mon, 21 Jun 2021 10:53:51 +0800</pubDate>
       <guid>https://fwm94.github.io/publication/hypergraphcoloring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rapid mixing of Glauber dynamics via spectral independence for all degrees</title>
-      <link>https://fwm94.github.io/publication/hardcore/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://fwm94.github.io/publication/hardcore/</guid>
       <description></description>
     </item>
     
