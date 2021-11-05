@@ -3,52 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fwm94.github.io/publication-type/0/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/authors/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/publication/ising/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/publication_types/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/publication/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/author/weiming-feng/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/author/xiaoyu-chen/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/author/xinyuan-zhang/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fwm94.github.io/author/yitong-yin/</loc>
+    <lastmod>2021-11-05T11:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fwm94.github.io/publication-type/1/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fwm94.github.io/authors/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/publication_types/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/publication/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fwm94.github.io/publication/hardcore/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/author/weiming-feng/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/author/xiaoyu-chen/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/author/xinyuan-zhang/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/author/yitong-yin/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,11 +80,6 @@
   <url>
     <loc>https://fwm94.github.io/author/yitong-yin-and-chihao-zhang/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fwm94.github.io/publication-type/0/</loc>
-    <lastmod>2021-06-21T10:53:51+08:00</lastmod>
   </url>
   
   <url>
