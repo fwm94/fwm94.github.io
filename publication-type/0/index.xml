@@ -5,12 +5,20 @@
     <link>https://fwm94.github.io/publication-type/0/</link>
       <atom:link href="https://fwm94.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 11:48:05 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Feb 2022 19:22:45 +0000</lastBuildDate>
     <image>
       <url>https://fwm94.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
       <link>https://fwm94.github.io/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Improved bounds for randomly colouring simple hypergraphs</title>
+      <link>https://fwm94.github.io/publication/linear-lll/</link>
+      <pubDate>Fri, 11 Feb 2022 19:22:45 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/linear-lll/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal mixing time for the Ising model in the uniqueness regime</title>
