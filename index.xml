@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Improved bounds for randomly colouring simple hypergraphs</title>
+      <link>https://fwm94.github.io/publication/linear-lll/</link>
+      <pubDate>Sat, 11 Jun 2022 19:22:45 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/linear-lll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sampling from the ferromagnetic Ising model with external fields</title>
       <link>https://fwm94.github.io/publication/ferroising/</link>
       <pubDate>Wed, 04 May 2022 19:26:46 +0100</pubDate>
@@ -53,14 +61,6 @@
       <link>https://fwm94.github.io/publication/hardcore-and-ising/</link>
       <pubDate>Mon, 14 Mar 2022 16:19:06 +0000</pubDate>
       <guid>https://fwm94.github.io/publication/hardcore-and-ising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improved bounds for randomly colouring simple hypergraphs</title>
-      <link>https://fwm94.github.io/publication/linear-lll/</link>
-      <pubDate>Fri, 11 Feb 2022 19:22:45 +0000</pubDate>
-      <guid>https://fwm94.github.io/publication/linear-lll/</guid>
       <description></description>
     </item>
     
@@ -261,10 +261,10 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
   One
 &lt;/span&gt;
