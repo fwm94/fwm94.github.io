@@ -5,12 +5,20 @@
     <link>https://fwm94.github.io/publication/</link>
       <atom:link href="https://fwm94.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Jul 2022 16:19:06 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 23:12:56 +0100</lastBuildDate>
     <image>
       <url>https://fwm94.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://fwm94.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A simple polynomial-time approximation algorithm for total variation distances between product distributions</title>
+      <link>https://fwm94.github.io/publication/dtv-alg/</link>
+      <pubDate>Mon, 01 Aug 2022 23:12:56 +0100</pubDate>
+      <guid>https://fwm94.github.io/publication/dtv-alg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal mixing for two-state anti-ferromagnetic spin systems</title>
