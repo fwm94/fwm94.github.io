@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>On the mixing time of Glauber dynamics for the hard-core and related models on   G(n,d/n)</title>
+      <link>https://fwm94.github.io/publication/randomhardcore/</link>
+      <pubDate>Mon, 13 Feb 2023 12:00:21 +0000</pubDate>
+      <guid>https://fwm94.github.io/publication/randomhardcore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards derandomising Markov chain Monte Carlo</title>
       <link>https://fwm94.github.io/publication/derandomisation/</link>
       <pubDate>Mon, 14 Nov 2022 13:11:25 +0000</pubDate>
@@ -41,7 +49,7 @@
     </item>
     
     <item>
-      <title>A simple polynomial-time approximation algorithm for total variation distances between product distributions</title>
+      <title>A simple polynomial-time approximation algorithm for the total variation distance between two product distributions</title>
       <link>https://fwm94.github.io/publication/dtv-alg/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://fwm94.github.io/publication/dtv-alg/</guid>
