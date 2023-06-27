@@ -5,12 +5,20 @@
     <link>https://fwm94.github.io/publication-type/2/</link>
       <atom:link href="https://fwm94.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 19:26:46 +0100</lastBuildDate>
     <image>
       <url>https://fwm94.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://fwm94.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields</title>
+      <link>https://fwm94.github.io/publication/ferroising/</link>
+      <pubDate>Mon, 26 Jun 2023 19:26:46 +0100</pubDate>
+      <guid>https://fwm94.github.io/publication/ferroising/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A simple polynomial-time approximation algorithm for the total variation distance between two product distributions</title>
