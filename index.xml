@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>An FPRAS for two terminal reliability in directed acyclic graphs</title>
+      <link>https://fwm94.github.io/publication/dagreliability/</link>
+      <pubDate>Tue, 02 Apr 2024 20:36:05 -0700</pubDate>
+      <guid>https://fwm94.github.io/publication/dagreliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate counting for spin systems in sub-quadratic time</title>
+      <link>https://fwm94.github.io/publication/subquadraticcounting/</link>
+      <pubDate>Tue, 02 Apr 2024 11:11:50 +0100</pubDate>
+      <guid>https://fwm94.github.io/publication/subquadraticcounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On deterministically approximating total variation distance</title>
       <link>https://fwm94.github.io/publication/dettvd/</link>
       <pubDate>Thu, 04 Jan 2024 20:16:19 -0700</pubDate>
@@ -41,26 +57,10 @@
     </item>
     
     <item>
-      <title>An FPRAS for two terminal reliability in directed acyclic graphs</title>
-      <link>https://fwm94.github.io/publication/dagreliability/</link>
-      <pubDate>Mon, 02 Oct 2023 20:36:05 -0700</pubDate>
-      <guid>https://fwm94.github.io/publication/dagreliability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Towards derandomising Markov chain Monte Carlo</title>
       <link>https://fwm94.github.io/publication/derandomisation/</link>
       <pubDate>Fri, 30 Jun 2023 13:11:25 +0000</pubDate>
       <guid>https://fwm94.github.io/publication/derandomisation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate counting for spin systems in sub-quadratic time</title>
-      <link>https://fwm94.github.io/publication/subquadraticcounting/</link>
-      <pubDate>Tue, 27 Jun 2023 11:11:50 +0100</pubDate>
-      <guid>https://fwm94.github.io/publication/subquadraticcounting/</guid>
       <description></description>
     </item>
     
@@ -361,7 +361,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-981253764&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-845162397&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -371,7 +371,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-981253764&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-845162397&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
