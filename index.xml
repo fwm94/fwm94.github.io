@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Rapid mixing via coupling independence for spin systems with unbounded degree</title>
+      <link>https://fwm94.github.io/publication/coloringalldegree/</link>
+      <pubDate>Wed, 10 Jul 2024 12:15:20 +0300</pubDate>
+      <guid>https://fwm94.github.io/publication/coloringalldegree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal mixing for randomly sampling edge colorings on trees down to the max degree</title>
+      <link>https://fwm94.github.io/publication/treeedgecoloring/</link>
+      <pubDate>Wed, 10 Jul 2024 10:06:23 +0300</pubDate>
+      <guid>https://fwm94.github.io/publication/treeedgecoloring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An FPRAS for two terminal reliability in directed acyclic graphs</title>
       <link>https://fwm94.github.io/publication/dagreliability/</link>
       <pubDate>Tue, 02 Apr 2024 20:36:05 -0700</pubDate>
@@ -361,7 +377,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-684523197&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-192786354&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -371,7 +387,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-684523197&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-192786354&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

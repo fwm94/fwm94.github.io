@@ -5,12 +5,28 @@
     <link>https://fwm94.github.io/publication-type/0/</link>
       <atom:link href="https://fwm94.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 20:36:05 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2024 12:15:20 +0300</lastBuildDate>
     <image>
       <url>https://fwm94.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
       <link>https://fwm94.github.io/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Rapid mixing via coupling independence for spin systems with unbounded degree</title>
+      <link>https://fwm94.github.io/publication/coloringalldegree/</link>
+      <pubDate>Wed, 10 Jul 2024 12:15:20 +0300</pubDate>
+      <guid>https://fwm94.github.io/publication/coloringalldegree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal mixing for randomly sampling edge colorings on trees down to the max degree</title>
+      <link>https://fwm94.github.io/publication/treeedgecoloring/</link>
+      <pubDate>Wed, 10 Jul 2024 10:06:23 +0300</pubDate>
+      <guid>https://fwm94.github.io/publication/treeedgecoloring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An FPRAS for two terminal reliability in directed acyclic graphs</title>
