@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Approximately counting knapsack solutions in subquadratic time</title>
+      <link>https://fwm94.github.io/publication/knapsack/</link>
+      <pubDate>Sat, 04 Jan 2025 19:46:28 +0200</pubDate>
+      <guid>https://fwm94.github.io/publication/knapsack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal mixing for randomly sampling edge colorings on trees down to the max degree</title>
+      <link>https://fwm94.github.io/publication/treeedgecoloring/</link>
+      <pubDate>Wed, 01 Jan 2025 10:06:23 +0300</pubDate>
+      <guid>https://fwm94.github.io/publication/treeedgecoloring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rapid mixing of the flip chain over non-crossing spanning trees</title>
       <link>https://fwm94.github.io/publication/flipping/</link>
       <pubDate>Fri, 13 Sep 2024 21:58:29 +0200</pubDate>
@@ -45,14 +61,6 @@
       <link>https://fwm94.github.io/publication/coloringalldegree/</link>
       <pubDate>Wed, 10 Jul 2024 12:15:20 +0300</pubDate>
       <guid>https://fwm94.github.io/publication/coloringalldegree/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal mixing for randomly sampling edge colorings on trees down to the max degree</title>
-      <link>https://fwm94.github.io/publication/treeedgecoloring/</link>
-      <pubDate>Wed, 10 Jul 2024 10:06:23 +0300</pubDate>
-      <guid>https://fwm94.github.io/publication/treeedgecoloring/</guid>
       <description></description>
     </item>
     
@@ -385,7 +393,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-673849152&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-946157238&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -395,7 +403,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-673849152&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-946157238&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
