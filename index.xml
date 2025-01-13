@@ -50,9 +50,9 @@
     
     <item>
       <title>Deterministic counting from coupling independence</title>
-      <link>https://fwm94.github.io/publication/colouring-lp/</link>
-      <pubDate>Thu, 31 Oct 2024 09:28:03 +0100</pubDate>
-      <guid>https://fwm94.github.io/publication/colouring-lp/</guid>
+      <link>https://fwm94.github.io/publication/detcounting/</link>
+      <pubDate>Sun, 01 Dec 2024 22:56:54 +0800</pubDate>
+      <guid>https://fwm94.github.io/publication/detcounting/</guid>
       <description></description>
     </item>
     
@@ -401,7 +401,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-849271653&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-176285934&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -411,7 +411,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-849271653&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-176285934&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -909,6 +909,14 @@ $$&lt;/p&gt;
       <link>https://fwm94.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fwm94.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USTC 2025</title>
+      <link>https://fwm94.github.io/courses/ustc2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fwm94.github.io/courses/ustc2025/</guid>
       <description></description>
     </item>
     

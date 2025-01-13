@@ -30,8 +30,8 @@
     <lastmod>2025-01-01T10:06:23+03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fwm94.github.io/publication/colouring-lp/</loc>
-    <lastmod>2024-10-31T09:28:03+01:00</lastmod>
+    <loc>https://fwm94.github.io/publication/detcounting/</loc>
+    <lastmod>2024-12-01T22:56:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fwm94.github.io/publication/flipping/</loc>
@@ -203,6 +203,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fwm94.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fwm94.github.io/courses/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fwm94.github.io/courses/ustc2025/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
