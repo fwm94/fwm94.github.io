@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Approximate counting for spin systems in sub-quadratic time</title>
+      <link>https://fwm94.github.io/publication/subquadraticcounting/</link>
+      <pubDate>Mon, 13 Jan 2025 11:11:50 +0100</pubDate>
+      <guid>https://fwm94.github.io/publication/subquadraticcounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Approximately counting knapsack solutions in subquadratic time</title>
       <link>https://fwm94.github.io/publication/knapsack/</link>
       <pubDate>Sat, 04 Jan 2025 19:46:28 +0200</pubDate>
@@ -77,14 +85,6 @@
       <link>https://fwm94.github.io/publication/dagreliability/</link>
       <pubDate>Tue, 02 Apr 2024 20:36:05 -0700</pubDate>
       <guid>https://fwm94.github.io/publication/dagreliability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate counting for spin systems in sub-quadratic time</title>
-      <link>https://fwm94.github.io/publication/subquadraticcounting/</link>
-      <pubDate>Tue, 02 Apr 2024 11:11:50 +0100</pubDate>
-      <guid>https://fwm94.github.io/publication/subquadraticcounting/</guid>
       <description></description>
     </item>
     
@@ -163,7 +163,7 @@
     <item>
       <title>Rapid mixing of Glauber dynamics via spectral independence for all degrees</title>
       <link>https://fwm94.github.io/publication/hardcore/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://fwm94.github.io/publication/hardcore/</guid>
       <description></description>
     </item>
@@ -401,7 +401,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-176285934&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-369428715&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -411,7 +411,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-176285934&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-369428715&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
