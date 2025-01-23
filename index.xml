@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Approximating the Total Variation Distance between Gaussians</title>
+      <link>https://fwm94.github.io/publication/gaussiantv/</link>
+      <pubDate>Thu, 23 Jan 2025 15:56:06 +0800</pubDate>
+      <guid>https://fwm94.github.io/publication/gaussiantv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Approximate counting for spin systems in sub-quadratic time</title>
       <link>https://fwm94.github.io/publication/subquadraticcounting/</link>
       <pubDate>Mon, 13 Jan 2025 11:11:50 +0100</pubDate>
@@ -401,7 +409,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-371652849&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-324857619&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -411,7 +419,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-371652849&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-324857619&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
