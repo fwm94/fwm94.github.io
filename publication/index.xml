@@ -5,12 +5,28 @@
     <link>https://fwm94.github.io/publication/</link>
       <atom:link href="https://fwm94.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 15:56:06 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 21:58:29 +0200</lastBuildDate>
     <image>
       <url>https://fwm94.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://fwm94.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Rapid mixing of the flip chain over non-crossing spanning trees</title>
+      <link>https://fwm94.github.io/publication/flipping/</link>
+      <pubDate>Mon, 23 Jun 2025 21:58:29 +0200</pubDate>
+      <guid>https://fwm94.github.io/publication/flipping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximating the total variation distance between spin systems</title>
+      <link>https://fwm94.github.io/publication/spintv/</link>
+      <pubDate>Fri, 07 Feb 2025 23:21:01 +0800</pubDate>
+      <guid>https://fwm94.github.io/publication/spintv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximating the Total Variation Distance between Gaussians</title>
@@ -21,17 +37,9 @@
     </item>
     
     <item>
-      <title>Approximate counting for spin systems in sub-quadratic time</title>
-      <link>https://fwm94.github.io/publication/subquadraticcounting/</link>
-      <pubDate>Mon, 13 Jan 2025 11:11:50 +0100</pubDate>
-      <guid>https://fwm94.github.io/publication/subquadraticcounting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Approximately counting knapsack solutions in subquadratic time</title>
       <link>https://fwm94.github.io/publication/knapsack/</link>
-      <pubDate>Sat, 04 Jan 2025 19:46:28 +0200</pubDate>
+      <pubDate>Mon, 06 Jan 2025 19:46:28 +0200</pubDate>
       <guid>https://fwm94.github.io/publication/knapsack/</guid>
       <description></description>
     </item>
@@ -39,8 +47,16 @@
     <item>
       <title>Optimal mixing for randomly sampling edge colorings on trees down to the max degree</title>
       <link>https://fwm94.github.io/publication/treeedgecoloring/</link>
-      <pubDate>Wed, 01 Jan 2025 10:06:23 +0300</pubDate>
+      <pubDate>Sun, 05 Jan 2025 10:06:23 +0300</pubDate>
       <guid>https://fwm94.github.io/publication/treeedgecoloring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate counting for spin systems in sub-quadratic time</title>
+      <link>https://fwm94.github.io/publication/subquadraticcounting/</link>
+      <pubDate>Wed, 01 Jan 2025 11:11:50 +0100</pubDate>
+      <guid>https://fwm94.github.io/publication/subquadraticcounting/</guid>
       <description></description>
     </item>
     
@@ -49,14 +65,6 @@
       <link>https://fwm94.github.io/publication/detcounting/</link>
       <pubDate>Sun, 01 Dec 2024 22:56:54 +0800</pubDate>
       <guid>https://fwm94.github.io/publication/detcounting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rapid mixing of the flip chain over non-crossing spanning trees</title>
-      <link>https://fwm94.github.io/publication/flipping/</link>
-      <pubDate>Fri, 13 Sep 2024 21:58:29 +0200</pubDate>
-      <guid>https://fwm94.github.io/publication/flipping/</guid>
       <description></description>
     </item>
     
